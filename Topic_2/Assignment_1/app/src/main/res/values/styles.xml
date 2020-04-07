@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="LobsterTwo" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/lobstertwo_regular</item>
+    </style>
+    <style name="LobsterTwoItailcs" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/lobstertwo_italic</item>
+    </style>
+    <style name="LobsterTwoBoldItailcs" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/lobstertwo_bolditalic</item>
+    </style>
+    <style name="LobsterTwoBold" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/lobstertwo_bold</item>
+    </style>
+    <style name="Alegreya" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/alegreya_regular</item>
+    </style>
+    <style name="AlegreyaItailcs" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/alegreya_italic</item>
+    </style>
+    <style name="AlegreyaBoldItailcs" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/alegreya_bolditalic</item>
+    </style>
+    <style name="AlegreyaBold" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/alegreya_bold</item>
+    </style>
+</resources>

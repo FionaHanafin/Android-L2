@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="enter_text">Enter text</string>
+    <string name="font_1">Font 1</string>
+    <string name="font_2">Font 2</string>
+    <string name="bold">Bold</string>
+    <string name="italics">Italics</string>
+</resources>
